@@ -9,7 +9,7 @@ import numpy as np
 from PIL import Image
 from datetime import datetime
 
-df = pd.read_csv("phton19thfebruary 2026\datasets\streamlitapps\oyin.csv")
+df = pd.read_csv("victor.csv")
 # Configure the page   
 st.set_page_config(
     page_title="My Colorful App",
